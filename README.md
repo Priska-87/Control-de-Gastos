@@ -1,7 +1,7 @@
-Proyecto Control de Gastos realizado con VITE.JS y React.js.
+Proyecto Control de Gastos realizado con VITE.JS y REACT.JS.
 Link del proyecto: https://elegant-griffin-ae4ca9.netlify.app/
 
-El mismo cuenta con una parte inicial para colocar presupesuto general con sus validaciones correspondientes.
+El mismo cuenta con una parte inicial para colocar presupuesto general con sus validaciones correspondientes.
 
 ![image](https://user-images.githubusercontent.com/89424062/223714926-d18c1575-3a0e-4dbd-8c24-3acb36ef6fc0.png)
 
